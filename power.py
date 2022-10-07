@@ -9,6 +9,8 @@ Functionalities:
     if you speak "play silent songs" it plays 
     silent songs from the specified directory,
     3. also wishes the user
+    4. sends email
+    5. opens youtube, google, VS code, Sublime
 
 
 """
